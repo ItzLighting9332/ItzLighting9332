@@ -8,7 +8,7 @@
 
 ## <h3 align="center">MY GITHUB STAT</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ItzLighting9332&show_icons=true&theme=tokyonight" alt="zevoffc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zevoffc&show_icons=true&theme=tokyonight" alt="zevoffc" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zevoffc&langs_count=7&theme=tokyonight" alt="zevoffc" /></p>
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
