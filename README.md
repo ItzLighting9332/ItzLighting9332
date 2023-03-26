@@ -14,10 +14,10 @@
 
 ## <h3 align="center">MY GITHUB STAT</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zevoffc&show_icons=true&theme=tokyonight" alt="zevoffc" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zevoffc&langs_count=7&theme=tokyonight" alt="zevoffc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zevanoo&show_icons=true&theme=tokyonight" alt="zevoffc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zevanoo&langs_count=7&theme=tokyonight" alt="zevano" /></p>
 
 ## <h3 align="center">GITHUB REPO</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zevoffc&repo=Nayla-MD&theme=tokyonight" alt="zevoffc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zevanoo&repo=Nayla-MD&theme=tokyonight" alt="zevoffc" /></p>
 
