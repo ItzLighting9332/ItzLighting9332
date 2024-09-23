@@ -1,9 +1,8 @@
 ### <h3 align="center">HI WELCOME TO MY PROFILE</h3>
 
--  I’m currently working on Schools.
--  I’m currently learning NodeJS.
--  I'm looking forward to these next few years, and see where it leads.
--  I'm 14 years old. 
+-  My Hobbies are Physical Training, Read Books, and Coding 🇮🇩
+-  My school at VOCATIONAL HIGH SCHOOL WARGA SURAKARTA
+-  My age is 15yo
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
